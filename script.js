@@ -11,21 +11,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
+    "Are you sure you don’t wanna go to Hogwarts with me? 🤔",
+    "Please Rachy...my fellow wizard 😔🥺",
+    "If you say no, I’ll be as sad as Harry without Ron and Hermione 😢",
+    "I’ll be waiting like an owl with no reply… 🦉",
+    "Please??? Don’t break my wizard heart 💔💔",
     "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "ast chance before I disappear under the invisibility cloak 😭",
+    "You can’t escape this invite anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "try saying no first… I bet something magical happens 😏",
+    "go on Rachy, press no… let’s see if the sorting hat agrees 👀",
+    "Rachy, you might miss your Hogwarts letter 😈",
+    "click no… I dare you Rachy the witch 😏"
 ]
 
 let yesTeasedCount = 0
